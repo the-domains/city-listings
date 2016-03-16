@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Krispy Kreme: FREE DONUTS \_on March 23rd!!"
-datePublished: '2016-03-16T06:39:59.446Z'
-dateModified: '2016-03-16T06:39:49.089Z'
+datePublished: '2016-03-16T06:41:43.069Z'
+dateModified: '2016-03-16T06:41:01.472Z'
 title: Gainesville Listings
 author: []
 sourcePath: _posts/2016-03-16-the-swamp-two-for-one-special.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 # Gainesville Listings
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c3cefb7-69b8-496e-ad17-5962f370f28e.jpg)
 
 The Swamp: Two for one special
