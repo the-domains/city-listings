@@ -1,6 +1,6 @@
 name: City Listings
 favicon: null
-layout_spectrum: 0.7059644246473908
+layout_spectrum: 1
 typography_spectrum: 0.6883632291574031
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.2257229876704514
-  lightness: 0.7047657559160143
-  saturation: 0.8432558770291507
-  rhythmicContrast: 0.9275661415886134
+    - '#3f4d50'
+    - '#202020'
+    - '#71838d'
+    - '#fefdee'
+    - '#845944'
+  brandStrength: 0.375
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
