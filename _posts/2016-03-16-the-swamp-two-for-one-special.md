@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'The Swamp: Two for one special'
-datePublished: '2016-03-16T06:19:37.486Z'
-dateModified: '2016-03-16T06:19:23.567Z'
+datePublished: '2016-03-16T06:28:32.775Z'
+dateModified: '2016-03-16T06:27:19.010Z'
 title: Gainesville Listings
 author: []
 sourcePath: _posts/2016-03-16-the-swamp-two-for-one-special.md
@@ -18,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-swamp-two-for-one-special/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Gainesville Listings
